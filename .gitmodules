@@ -5,3 +5,6 @@
 [submodule "mpmc-aula-02"]
 	path = mpmc-aula-02
 	url = git@github.com:DiegoAscanio/mpmc-aula-02.git
+[submodule "lab-mpmc-aula-01"]
+	path = lab-mpmc-aula-01
+	url = git@github.com:DiegoAscanio/lab-mpmc-aula-01.git
