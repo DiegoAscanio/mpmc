@@ -1,9 +1,3 @@
-<style>
-    section {
-        background-color: #dbdccf;
-        background-size: cover;
-    }
-</style>
 
 # Microprocessadores e Microcontroladores
 

@@ -1,0 +1,16 @@
+<style>
+    body {
+        background-color: #dbdccf;
+        background-size: cover;
+        font-family: Arial, sans-serif;
+    }
+    table {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    th, td {
+        border: 1px solid black;
+        text-align: center;
+        padding: 10px;
+    }
+</style>
