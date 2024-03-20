@@ -33,7 +33,7 @@ jobs:
             - name: Installs python markdown package
               run: sudo pip install markdown
             - name: Convert index.md to index.html
-              run: python -m markdown ./README.md > ./index.html
+              run: python -m markdown -x extra ./README.md > ./index.html
             - name: Setup Pages
               uses: actions/configure-pages@v4
             - name: Build with Jekyll
