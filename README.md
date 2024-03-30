@@ -8,4 +8,4 @@
 | :-----------------------------------------------------: | :---------------------------------------------------------: |
 | [Aula 01](https://diegoascanio.github.io/mpmc-aula-01/) | [Aula 01](https://diegoascanio.github.io/lab-mpmc-aula-01/) |
 | [Aula 02](https://diegoascanio.github.io/mpmc-aula-02/) | [Aula 02](https://diegoascanio.github.io/lab-mpmc-aula-02/) |
-| [Aula 03](https://diegoascanio.github.io/mpmc-aula-03/) |                         [Aula 03]()                         |
+| [Aula 03](https://diegoascanio.github.io/mpmc-aula-03/) | [Aula 03](https://diegoascanio.github.io/lab-mpmc-aula-03/) |
