@@ -14,3 +14,6 @@
 [submodule "lab-mpmc-aula-02"]
 	path = lab-mpmc-aula-02
 	url = git@github.com:DiegoAscanio/lab-mpmc-aula-02.git
+[submodule "lab-mpmc-aula-03"]
+	path = lab-mpmc-aula-03
+	url = git@github.com:DiegoAscanio/lab-mpmc-aula-03.git
